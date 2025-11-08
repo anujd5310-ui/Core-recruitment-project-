@@ -16,16 +16,16 @@ It stores project details such as creator name, description, supporters, and cre
 
 ## 🌐 Deployment Details
 - *Network:* Core Blockchain Testnet2  
-- *Contract Address:* 0x__________ (yahan apna address likho)  
+- *Contract Address:* 0xf4A2441166221570522218706A899b08D4A40562________  
 - *Deployed By:* Anuj Dubey  
 - *Status:* Success ✅
 
 ## 📸 Screenshots
 ### Remix IDE (Deployed Contract)
-![Remix Screenshot](upload-kiya-hua-image-link)
+![Remix Screenshot]
 
 ### Explorer (Transaction Success)
-![Explorer Screenshot](upload-kiya-hua-image-link)
+![Explorer Screensho
 
 ## 🧩 Future Scope
 - Add token-based supporter rewards  
